@@ -1,4 +1,4 @@
-let pay = true;
+let pay = false;
 let pagina = document.querySelector('#principal');
 
 if (!pay) {
